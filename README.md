@@ -24,7 +24,7 @@
 
 # About the Animal Shelter Project
 
-![Image info](Grazioso Salvare Logo.png)
+![Grazioso Salvare Logo.png](Grazioso Salvare Logo.png)
 
 This application will allow users to identify dog candidates for search-and-rescue training.\
 Users will be able to filter their selection based on the rescue type they are looking for. \
@@ -142,7 +142,7 @@ def update_dashboard(filter_type):
 ## Contact
 
 ---
-Shayne Greene - [Email](shayne.greene@snhu.edu)
+Shayne Greene - Email - shayne.greene@snhu.edu
 
 Project Link: [https://github.com/DecoyChild/CS-340](https://github.com/DecoyChild/CS-340)
 

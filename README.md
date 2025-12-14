@@ -144,5 +144,4 @@ def update_dashboard(filter_type):
 Shayne Greene - Email - shayne.greene@snhu.edu
 
 Project Link: [https://github.com/DecoyChild/CS-340](https://github.com/DecoyChild/CS-340)
-
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

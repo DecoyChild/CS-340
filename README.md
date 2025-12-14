@@ -25,8 +25,6 @@
 
 # About the Animal Shelter Project
 
----
-
 ![Image info](Grazioso Salvare Logo.png)
 
 This application will allow users to identify dog candidates for search-and-rescue training.\
@@ -48,23 +46,21 @@ We hope that this application makes sorting and filtering an intuitive and enjoy
 
 ## Getting Started
 
----
-
 ### Prerequisites
 
-A connection to MongoDB
-: Where all your animal information will be stored.\
+#### A connection to MongoDB
+Where all your animal information will be stored.\
 The database can either be local (for testing) or through a network.
 
-Latest version of Python installed. [Python](https://www.python.org/downloads/)
-: Python is the core language for this application. 
+#### Latest version of Python installed. [Python](https://www.python.org/downloads/)
+Python is the core language for this application. 
 
-An IDE (Integrated Development Environment) to edit and run the code. (optional but recommended)\
-: You will need to run this application in a Jupyter Notebook.
-: Any IDE that runs Python will work: **PyCharm**, **Visual Studio Code** (Both will run on Mac or Windows OS)
+#### An IDE (Integrated Development Environment) to edit and run the code. (optional but recommended)
+You will need to run this application in a Jupyter Notebook.
+Any IDE that runs Python will work: **PyCharm**, **Visual Studio Code** (Both will run on Mac or Windows OS)
 You can create and run a Jupyter Notebook from either of the IDE's listed above.
 
-: [![Static Badge](https://img.shields.io/badge/PyCharm-Yellow?style=for-the-badge&logo=PyCharm&logoColor=000000&labelColor=25AFE8&color=9735CC)](https://www.jetbrains.com/pycharm/)\
+[![Static Badge](https://img.shields.io/badge/PyCharm-Yellow?style=for-the-badge&logo=PyCharm&logoColor=000000&labelColor=25AFE8&color=9735CC)](https://www.jetbrains.com/pycharm/)\
 [![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-Yellow?style=for-the-badge&logo=Firefly%20III&logoColor=000000&logoSize=auto&labelColor=000000&color=3560CC)](https://code.visualstudio.com/download)
 
 ### Python Codebase (included)
@@ -74,7 +70,6 @@ You can create and run a Jupyter Notebook from either of the IDE's listed above.
 
 ## Usage
 
----
 Import both Python files into a new Project\
 Open **ProjectTwoDashboard.ipynb** in a new Juypter Notebook.\
 CHange **ProjectTwoDashboard.ipynb** with your MongoDB credentials
